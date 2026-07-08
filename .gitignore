@@ -1,3 +1,22 @@
+# Archivos de compilación
+.gradle
+build/
+*/build/
+# Archivos de IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+*.nbproject/
+# Archivos locales
+local.properties
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
 ## Gradle:
 .gradle/
 gradle-app.setting
