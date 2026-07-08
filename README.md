@@ -27,3 +27,6 @@ En Linux/macOS: ./gradlew lwjgl3:run
 
 Estado Actual del Proyecto:
 -Pre-entrega N°1: Configuración inicial del entorno, definición de arquitectura y estructura base del proyecto.
+
+**Enlace a la Wiki del Proyecto (Propuesta Detallada):**
+[Ver la Propuesta Completa del Proyecto](https://github.com/RocioCuello7/Proyecto-Final-Fragments-of-You/wiki/Propuesta-del-Proyecto-%E2%80%90-Fragments-of-You)
