@@ -33,6 +33,5 @@ Para compilar y ejecutar el proyecto, es necesario tener instalado **JDK 21** en
 
 ## Documentación
 El historial de cambios y la propuesta formal del proyecto se encuentran en la Wiki y en el archivo CHANGELOG.md.
-* [Enlace a la Wiki del Proyecto](https://github.com/RocioCuello7/Proyecto-Final-Fragments-of-You/wiki/Propuesta-del-Proyecto-%E2%80%90-Fragments-of-You)
 **Enlace a la Wiki del Proyecto (Propuesta Detallada):**
 [Ver la Propuesta Completa del Proyecto](https://github.com/RocioCuello7/Proyecto-Final-Fragments-of-You/wiki/Propuesta-del-Proyecto-%E2%80%90-Fragments-of-You)
